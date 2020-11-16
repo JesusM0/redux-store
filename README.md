@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-
+An online shopping application that uses Redux for management, and Stripe for paying.
 
 ## Table of Contents
 * [Screenshots](#screenshots)
