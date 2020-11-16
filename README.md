@@ -13,3 +13,17 @@
 
 ## Screenshots
 ![Home](./client/public/images/screenshot.jpg)
+
+## Deployment
+[Deployed application here](https://redux-store3.herokuapp.com/)
+
+## Credits
+Created by Jesus Molina.
+
+## License
+Redux Store is licensed under the MIT license.
+
+## Need Help?
+Contact Me At:
+Email: Jesusm1948@gmail.com
+GitHub: https://github.com/Kos-MosV4
